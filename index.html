@@ -29,6 +29,16 @@
 	<!-- Theme CSS -->
 	<link id="theme-style" rel="stylesheet" href="assets/css/styles.css">
 	<!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<style type="text/css">
+		.mobileHide { display: inline; } 
+	  
+		/* Smartphone Portrait and Landscape */ 
+		@media only screen 
+		  and (min-device-width : 320px) 
+		  and (max-device-width : 480px){ 
+		   .mobileHide { display: none;}
+		}
+	  </style>
 </head>
 
 <body>
@@ -70,7 +80,7 @@
 						</div>
 					</div>
 				</section>
-<!--https://zrich97.github.io/Roomie/-->
+
 				<section class="latest section">
 					<div class="section-inner">
 						<h2 class="heading">Latest Projects</h2>
@@ -117,6 +127,18 @@
 						</div>
 					</div>
 				</section>
+
+			<div class="mobileHide">
+				<section class="latest section">
+					<div class="section-inner">
+						<h2 class="heading">My Github Activity Up To Today (<script> document.write(new Date().toLocaleDateString()); </script>)</h2>
+						<div class="content">
+							<img src="http://ghchart.rshah.org/ZRich97" alt="My Github Activity" />
+						</div>
+					</div>
+				</section>
+			</div>
+
 
 			</div>
 			<div class="secondary col-md-4 col-sm-12 col-xs-12">
