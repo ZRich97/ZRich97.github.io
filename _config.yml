@@ -1,0 +1,23 @@
+title: Zack Richardson's Personal Website
+email: zackrichardson97@gmail.com
+description: 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://zrich.dev" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  ZRich97
+linkedin_username: richardsonz
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
+
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
