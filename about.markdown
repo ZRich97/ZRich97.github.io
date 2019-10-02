@@ -7,7 +7,7 @@ permalink: /about/
 
 Thanks for visiting my site! Here's some quick info about me:
 
-- Graduated from <a href="http://calpoly.edu">Cal Poly SLO</a> with my B.S. in Software Engineering.
+- Graduating from <a href="http://calpoly.edu">Cal Poly SLO</a> with my B.S. in Software Engineering in December 2019.
 - Interned at <a href="https://www.jt4llc.com">JT4</a> in Las Vegas (my hometown), where I developed Java, Python, and Groovy projects.
 - Interned at <a href="https://www.intuit.com">Intuit</a> in Mountain View as a DevOps Engineering intern. At Intuit, I developed a CICD solution that cut deployment time by ~60%. 
 - When I started programming, I was developing Objective-C iOS apps in high school. Today, iOS development is still one of my side hobbies. 
