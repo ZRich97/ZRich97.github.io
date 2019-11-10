@@ -5,7 +5,7 @@ date:   2019-11-09 11:05:36 -0700
 categories: jekyll update
 ---
 
-![Rapalyzer](/img/rapalyzer.gif "Rapalyzer Demo")
+[![Rap-alyzer](/img/rapalyzer.gif)](http://rap.zrich.dev/ "Rap-alyzer") 
 
 After seeing quite a few 'rhyme scheme analysis' breakdowns such as [this one](https://www.youtube.com/watch?v=k2ah9CtlaEs)
 on Instagram, Reddit, and YouTube, I decided to try my hand at automating the process. The result is the aptly named [Rap-alyzer](http://rap.zrich.dev/) 
