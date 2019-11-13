@@ -5,11 +5,10 @@ permalink: /about/
 ---
 ![Me](/img/zack.png "Me!"){:width="400px"}
 
-
-![CalPoly](/img/CalPoly.jpg "Cal Poly SLO"){:width="100px"}
-![JT4](/img/JT4.png "JT4"){:width="100px"}
-![Intuit](/img/Intuit.png "Intuit"){:width="100px"}
-![MSFT](/img/MSFT.png "Microsoft"){:width="100px"}
+![CalPoly](/img/CalPoly.jpg "Cal Poly SLO"){:width="97px"}
+![JT4](/img/JT4.png "JT4"){:width="97px"}
+![Intuit](/img/Intuit.png "Intuit"){:width="97px"}
+![MSFT](/img/MSFT.png "Microsoft"){:width="97px"}
 
 ![Java](/img/Java.png "Java"){:width="50px"}
 ![Python](/img/Python.png "Python"){:width="50px"}
