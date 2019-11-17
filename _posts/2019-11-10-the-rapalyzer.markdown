@@ -11,7 +11,7 @@ After seeing quite a few 'rhyme scheme analysis' breakdowns such as [this one](h
 on Instagram, Reddit, and YouTube, I decided to try my hand at automating the process. The result is the aptly named [Rap-alyzer](http://rap.zrich.dev/) 
 (or 'Rap Analyzer'). 
 
-The webapp is hosted on Azure. The frontend is written in React (my first foray into web development!) and the backend is a Flask app served using Gunicorn.
+The webapp is hosted on AWS. The frontend is written in React (my first foray into web development!) and the backend is a Flask app served using Gunicorn.
 Lyrics are scraped using the [Genius API](https://docs.genius.com/) and the rhymes are found using the [CMU Proncouncing Dictionary](http://www.speech.cs.cmu.edu/cgi-bin/cmudict).
 
 While it's a fun toy, it's definitely not perfect. Some future things I'd like to implement are:
