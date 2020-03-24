@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "FitTrak"
+date:   2019-12-14 09:05:36 -0700
+categories: jekyll update
+---
+
+<iframe controls='true' type='video/mov' allow="fullscreen" src="https://drive.google.com/file/d/1EM14f5058jc36MxKPYonL--PVW6cxf7i/preview" width="716" height="378"></iframe>
+
+iOS development was my first exposure to programming, but I've never devoted enough time to it to build a real app. For my senior project at Cal Poly SLO, I wanted to take 
+the opportunity to develop a fully-fledged app. The result: FitTrak. 
+
+FitTrak is an application that allows users to track their meals, cardio, and weightlifting progress with a modern, simplistic UI. While it isn’t complete, it's close! FitTrak
+uses AWS services for user management, data storage, and CICD.
+
+My goals for the app were to learn how to design a programmatic iOS GUI and to implement the AWS lifecycle on iOS. While I haven’t submitted the app for release, 
+I will be continuing to work towards that goal post-graduation. 
+
+Thanks for reading!
