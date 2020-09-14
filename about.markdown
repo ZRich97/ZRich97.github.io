@@ -21,7 +21,7 @@ permalink: /about/
 ![Jenkins](/img/Jenkins.png "Jenkins"){:width="63px"}
 ![AWS](/img/AWS.png "AWS"){:width="63px"}
 ![Git](/img/Git.png "Git"){:width="63px"}
-![Azure](/img/azure.svg "Azure"){:width="63px"}
+![Azure](/img/azure.png "Azure"){:width="63px"}
 ![Visual Studio](/img/VS.png "Visual Studio"){:width="63px"}
 
 Thanks for visiting my site! Here's some quick info about me:
