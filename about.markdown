@@ -26,10 +26,9 @@ permalink: /about/
 
 Thanks for visiting my site! Here's some quick info about me:
 
-- I'm currently a Software Engineer at [Microsoft](https://www.microsoft.com/) on the Commerce and Ecosystems team where I've been...
-    - Developing internal CI tooling on [Azure Pipelines](https://docs.microsoft.com/en-us/azure/devops/pipelines/get-started/what-is-azure-pipelines?view=azure-devops)
-    - Migrating internal MS Store services from legacy architecture to [AKS](https://azure.microsoft.com/en-us/services/kubernetes-service/)
-    - Building monitoring solutions for Azure [VMSS](https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview)
+- I'm currently a Software Engineer at [Microsoft](https://www.microsoft.com/) on the Commerce Reliability Engineering team where I've been...
+    - Developing internal infrastructure and service health monitoring tools
+    - Migrating key commerce services (serving 100k+ RPS across multiple global regions) to Azure Kubernetes Service (AKS) and .NET Core
 - Graduated from [Cal Poly SLO](https://calpoly.edu) with my B.S. in Software Engineering in December 2019.
 - Interned at [Intuit](https://www.intuit.com) in Mountain View as a DevOps Engineering intern. At Intuit, I developed a [CICD Solution](https://docs.google.com/presentation/d/1_KfwMkbWL2P6eP-8-Es44Uad-K_JFiesChWLdf12RMk/edit?usp=sharing) that cut deployment time by ~60%. 
 - Interned at [JT4](https://www.jt4llc.com) in Las Vegas (my hometown), where I developed Java, Python, and Groovy projects.
