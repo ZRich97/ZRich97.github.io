@@ -11,9 +11,8 @@ iOS development was my first exposure to programming, but I've never devoted eno
 the opportunity to develop a fully-fledged app. The result: FitTrak. 
 
 FitTrak is an application that allows users to track their meals, cardio, and weightlifting progress with a modern, simplistic UI. While it isn’t complete, it's close! FitTrak
-uses AWS services for user management, data storage, and CICD.
+uses AWS services for user management, data storage, and CI.
 
-My goals for the app were to learn how to design a programmatic iOS GUI and to implement the AWS lifecycle on iOS. While I haven’t submitted the app for release, 
-I will be continuing to work towards that goal post-graduation. 
+My goals for the app were to learn how to design a programmatic iOS GUI and to implement the AWS lifecycle on iOS. 
 
 Thanks for reading!
