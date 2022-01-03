@@ -14,5 +14,3 @@ FitTrak is an application that allows users to track their meals, cardio, and we
 uses AWS services for user management, data storage, and CI.
 
 My goals for the app were to learn how to design a programmatic iOS GUI and to implement the AWS lifecycle on iOS. 
-
-Thanks for reading!

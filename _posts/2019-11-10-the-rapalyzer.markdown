@@ -19,5 +19,3 @@ While it's a fun toy, it's not perfect. Some future things I'd like to implement
 - Genius' lyrics sometimes contain cruft that should be cleaned more thoroughly. 
 - The colors used to indicate rhyme groups are randomly generated, making it possible that two groups have the same color. 
 - Many rappers bend rhymes using unusual pronounciation (example: [Eminem](https://www.youtube.com/watch?v=lPcR5RVXHMg)). It may be possible to use speech-to-text to more accurately pick up rhymes.
-
-Try it out at [rap.zrich.dev](https://rap.zrich.dev). Thanks!
