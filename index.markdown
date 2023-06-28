@@ -1,7 +1,5 @@
 ---
-layout: page
-title: Resume
-permalink: /resume
+layout: home
 ---
 <html>
   <head>
